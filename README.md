@@ -121,9 +121,11 @@ disp("Done: smooth demodulated signals.");
 
 <img width="1917" height="1105" alt="image" src="https://github.com/user-attachments/assets/e9cbfa2c-8b47-4f9e-87a7-35f4fc8ec13a" />
 
-![WhatsApp Image 2025-11-21 at 12 39 25_2aa2aaa9](https://github.com/user-attachments/assets/41104cee-70da-44bd-847f-173a09effb75)
+TABULATION 
 
-![WhatsApp Image 2025-11-21 at 12 39 24_6683fa45](https://github.com/user-attachments/assets/5c6817c5-9273-407a-b237-aec544157d12)
+![WhatsApp Image 2025-11-28 at 10 39 21_768fd6e6](https://github.com/user-attachments/assets/30d6ef70-d684-4947-9cb4-914940c0bcc3)
+
+![WhatsApp Image 2025-11-28 at 10 39 36_5bc20119](https://github.com/user-attachments/assets/23fcd4cc-f3ac-413f-8394-fcbbcfd46dfb)
 
 
 <h1>Result:</h1>
